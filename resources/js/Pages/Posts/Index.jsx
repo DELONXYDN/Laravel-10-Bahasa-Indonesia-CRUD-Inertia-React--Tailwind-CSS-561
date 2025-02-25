@@ -35,8 +35,8 @@ export default function Dashboard(props) {
                                 <thead>
                                     <tr className="text-white bg-gray-500">
                                         <th className="px-4 py-2 w-20">No.</th>
-                                        <th className="px-4 py-2">Title</th>
-                                        <th className="px-4 py-2">Body</th>
+                                        <th className="px-4 py-2">Nama</th>
+                                        <th className="px-4 py-2">Gmail</th>
                                         <th className="px-4 py-2">Action</th>
                                     </tr>
                                 </thead>
